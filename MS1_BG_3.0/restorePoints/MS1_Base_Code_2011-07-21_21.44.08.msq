@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<msq xmlns="http://www.msefi.com/:msq">
+<bibliography author="TunerStudio MS 1.076 - EFI Analytics, Inc." tuneComment="&lt;html&gt;Restore Point: Project close - &lt;br&gt;&#13;&#10;  &lt;head&gt;&#13;&#10;&#13;&#10;  &lt;/head&gt;&#13;&#10;  &lt;body&gt;&#13;&#10;    &lt;p style=&quot;margin-top: 0&quot;&gt;&#13;&#10;      &#13;&#10;    &lt;/p&gt;&#13;&#10;  &lt;/body&gt;&#13;&#10;&lt;/html&gt;&#13;&#10;" writeDate="Thu Jul 21 21:44:08 EDT 2011"/>
+<versionInfo fileFormat="4.0" firmwareInfo="" nPages="1" signature="20"/>
+<page number="0" size="125"/>
+<settings Comment="These setting are only used if this msq is opened without a project.">
+<setting name="OLD_STYLE_FRONT_PAGE_OFF" value="OLD_STYLE_FRONT_PAGE_OFF"/>
+<setting name="NARROW_BAND_EGO" value="NARROW_BAND_EGO"/>
+<setting name="SPEED_DENSITY" value="SPEED_DENSITY"/>
+<setting name="FAHRENHEIT" value="FAHRENHEIT"/>
+<setting name="MPX4250" value="MPX4250"/>
+</settings>
+<userComments Comment="These are user comments that can be related to a particular setting or dialog."/>
+</msq>

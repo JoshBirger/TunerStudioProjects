@@ -1,0 +1,26 @@
+#Project Attributes.
+#TunerStudio by EFI Analytics, Inc
+#Last Saved on: Sun Oct 11 14:44:23 EDT 2020
+#Sun Oct 11 14:44:23 EDT 2020
+commPort=COM3
+canId=-1
+ecuSettings=AFR|CAN_COMMANDS_OFF|FAHRENHEIT|enablehardware_test_OFF|resetcontrol_standard|
+CommSettingDESKTOP-11SJ2BRCommDriver.controllerInterfaceId=RS232 Serial Interface
+selectedComDriver=Multi Interface MegaSquirt Driver
+projectDescription=
+projectName=CrinklesTheCar
+CommSettingCom\ Port=COM3
+CommSettingDESKTOP-11SJ2BRCommDriver.RS232\ Serial\ InterfaceCom\ Port=COM3
+ecuConfigFile=mainController.ini
+CommSettingBaud\ Rate=115200
+CommSettingDESKTOP-11SJ2BRCommDriver.RS232\ Serial\ InterfaceBaud\ Rate=115200
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=false
+CommSettingMSCommDriver.controllerInterfaceId=RS232 Serial Interface
+firmwareDescription=Speeduino 2020.08
+useCommonTuneViewDir=false
+useCommonDashboardDir=false
+dashBoardFile=\\dashboard\\\\dashboard.dash
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceCom\ Port=COM3
+CommSettingDESKTOP-11SJ2BRCommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=false
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceBaud\ Rate=115200
+baudRate=115200
